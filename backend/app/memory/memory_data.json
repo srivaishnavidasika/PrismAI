@@ -1,0 +1,90 @@
+{
+  "default_user": {
+    "difficulty_level": "beginner",
+    "by_language": {
+      "java": {
+        "common_mistakes": [
+          "syntax error",
+          "logical error",
+          "inefficiency"
+        ],
+        "recent_scores": [
+          6.5
+        ]
+      },
+      "cpp": {
+        "common_mistakes": [
+          "syntax error",
+          "poor code efficiency",
+          "logical error",
+          "inefficiency"
+        ],
+        "recent_scores": [
+          6.2,
+          6.2,
+          3.2,
+          8.2,
+          3.2,
+          3.6
+        ]
+      },
+      "python": {
+        "common_mistakes": [
+          "inefficiencies"
+        ],
+        "recent_scores": [
+          6.2,
+          6.2,
+          6.2,
+          6.2,
+          6.2
+        ]
+      },
+      "c": {
+        "common_mistakes": [
+          "syntax error",
+          "logical error",
+          "inefficiency",
+          "poor edge case handling",
+          "uninitialized variable",
+          "unclear formatting"
+        ],
+        "recent_scores": [
+          8.2,
+          7.5,
+          7.5,
+          8.2,
+          6.5,
+          6.5,
+          7.5,
+          7.5,
+          6.2,
+          8.2
+        ]
+      },
+      "csharp": {
+        "common_mistakes": [
+          "inefficiencies",
+          "poor variable naming"
+        ],
+        "recent_scores": [
+          6.2
+        ]
+      },
+      "javascript": {
+        "common_mistakes": [
+          "syntax error",
+          "logical error",
+          "poor edge case handling"
+        ],
+        "recent_scores": [
+          7.5,
+          6.8,
+          6.8,
+          8.2,
+          6.8
+        ]
+      }
+    }
+  }
+}
