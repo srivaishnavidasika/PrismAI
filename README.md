@@ -248,7 +248,7 @@ PrismAI/
 │
 └── README.md
 
----
+```
 
 ## 🧠 What Makes This Unique?
 
